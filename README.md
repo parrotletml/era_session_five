@@ -124,5 +124,5 @@ Adjusting learning rate of group 0 to 1.0000e-03.
 
 Following is graph for training outcomes
 
-[plot](plot.png)
+![plot](plot.png)
 
