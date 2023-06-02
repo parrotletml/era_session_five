@@ -9,3 +9,5 @@ This repo contains code to train mnist from scratch. We have also divided code i
 ## Define Network
 
 Network used here contains total of 593,200 params and architecture as as follows
+
+![mnist model](rnn_torchviz.png)  
